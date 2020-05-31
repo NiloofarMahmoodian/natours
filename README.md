@@ -12,6 +12,6 @@
    ```
 3. Open http://localhost:3000/
 
-# Screenshots
+## Screenshots
 
 ![Main](/screenshots/main.png)
