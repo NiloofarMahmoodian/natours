@@ -1,4 +1,4 @@
-# natours
+# Natours
 
 ## Quick Start
 
